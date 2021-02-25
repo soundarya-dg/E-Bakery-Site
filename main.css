@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+
+  }
+.button {
+  border: white;
+  color: white;
+  padding: 12px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {background-color: #d42376;} 
+.button2 {background-color: #475c57;} 
+   
+h2{
+    color:pink; 
+}
+
+h3{ 
+    color:salmon; 
+}
+h4{
+    color: rgb(88, 6, 15);
+}
